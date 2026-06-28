@@ -17,12 +17,14 @@
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
