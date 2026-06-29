@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
