@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Math
@@ -166,5 +168,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
