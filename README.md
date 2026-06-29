@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
@@ -72,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -163,6 +165,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -174,4 +177,20 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
