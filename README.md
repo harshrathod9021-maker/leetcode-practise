@@ -73,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
