@@ -75,6 +75,7 @@
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,4 +218,5 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
