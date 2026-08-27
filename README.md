@@ -34,6 +34,7 @@
 | [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@
 | [0162-find-peak-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
@@ -204,6 +206,7 @@
 | [0048-rotate-image](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Math
 |  |
@@ -217,6 +220,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
