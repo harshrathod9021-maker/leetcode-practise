@@ -55,6 +55,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
 | ------- |
