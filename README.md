@@ -296,4 +296,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
