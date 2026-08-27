@@ -3,6 +3,7 @@ class Solution {
 
         int min = 1;
         int max = 10_000_000;
+        // int max = Arrays.stream(dist).max().getAsInt();
 
         int ans = -1;
 
