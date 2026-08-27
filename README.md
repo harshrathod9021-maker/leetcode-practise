@@ -45,6 +45,7 @@
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -111,6 +112,7 @@
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
