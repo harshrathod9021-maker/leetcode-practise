@@ -300,4 +300,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0175-combine-two-tables) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
