@@ -47,6 +47,7 @@
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
@@ -163,6 +164,7 @@
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
