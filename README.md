@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0162-find-peak-element) |
@@ -167,6 +168,7 @@
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
