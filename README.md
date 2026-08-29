@@ -41,6 +41,7 @@
 | [0485-max-consecutive-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
@@ -160,11 +161,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
