@@ -170,6 +170,7 @@
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
@@ -303,6 +304,7 @@
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
