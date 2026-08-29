@@ -107,6 +107,7 @@
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -176,6 +177,7 @@
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -275,6 +277,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
@@ -313,6 +316,7 @@
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 ## Manacher
 |  |
 | ------- |
