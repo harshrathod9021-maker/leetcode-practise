@@ -164,6 +164,7 @@
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,4 +316,12 @@
 | [0596-classes-with-at-least-5-students](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0596-classes-with-at-least-5-students) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1193-monthly-transactions-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
