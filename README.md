@@ -121,6 +121,7 @@
 | [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -213,6 +214,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -439,6 +441,7 @@
 | [0328-odd-even-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
