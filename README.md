@@ -394,6 +394,7 @@
 | [0155-min-stack](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -421,4 +422,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
