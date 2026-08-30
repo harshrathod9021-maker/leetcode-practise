@@ -422,5 +422,6 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
