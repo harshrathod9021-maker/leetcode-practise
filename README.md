@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0088-merge-sorted-array) |
@@ -343,6 +344,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 ## Simulation
@@ -530,4 +532,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
