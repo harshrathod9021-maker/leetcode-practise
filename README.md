@@ -73,6 +73,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1019-next-greater-node-in-linked-list) |
+| [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -328,6 +329,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Math
 |  |
@@ -571,6 +573,7 @@
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 ## Knapsack Problem
 |  |
 | ------- |
