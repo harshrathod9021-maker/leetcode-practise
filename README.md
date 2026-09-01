@@ -353,6 +353,7 @@
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
 | [0445-add-two-numbers-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
@@ -424,6 +425,7 @@
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
@@ -587,6 +589,7 @@
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
