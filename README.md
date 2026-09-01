@@ -200,6 +200,7 @@
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
@@ -398,6 +399,7 @@
 | [0032-longest-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
@@ -554,6 +556,7 @@
 | [0047-permutations-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
