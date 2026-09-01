@@ -71,6 +71,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -334,6 +335,7 @@
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Math
@@ -372,6 +374,7 @@
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -581,6 +584,7 @@
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 ## Knapsack Problem
 |  |
@@ -608,4 +612,8 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
