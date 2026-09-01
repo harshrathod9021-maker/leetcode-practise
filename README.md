@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0056-merge-intervals) |
@@ -562,6 +563,7 @@
 | [0040-combination-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
@@ -582,4 +584,8 @@
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
