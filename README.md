@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
@@ -204,6 +205,7 @@
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0198-house-robber) |
+| [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
@@ -360,6 +362,7 @@
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Simulation
 |  |
@@ -563,6 +566,7 @@
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Knapsack Problem
@@ -576,5 +580,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
