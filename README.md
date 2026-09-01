@@ -43,6 +43,7 @@
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
@@ -331,6 +332,7 @@
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
@@ -413,6 +415,7 @@
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
@@ -574,6 +577,7 @@
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -600,4 +604,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
