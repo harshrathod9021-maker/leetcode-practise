@@ -56,6 +56,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
+| [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
@@ -114,6 +115,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -302,6 +304,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
@@ -337,6 +340,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
@@ -673,4 +677,8 @@
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
