@@ -54,6 +54,7 @@
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
@@ -325,6 +326,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
