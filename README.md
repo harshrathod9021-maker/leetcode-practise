@@ -144,6 +144,7 @@
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
@@ -188,6 +189,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
@@ -321,6 +323,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
@@ -491,6 +494,7 @@
 | [0155-min-stack](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
@@ -498,6 +502,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
