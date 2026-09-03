@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
