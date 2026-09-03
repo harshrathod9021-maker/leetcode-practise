@@ -88,6 +88,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1019-next-greater-node-in-linked-list) |
+| [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -212,6 +213,7 @@
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -340,6 +342,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Queue
 |  |
@@ -363,6 +366,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
+| [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -437,6 +441,7 @@
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Binary Indexed Tree
