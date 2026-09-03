@@ -712,4 +712,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
