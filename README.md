@@ -133,6 +133,7 @@
 | [0621-task-scheduler](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +169,7 @@
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -234,6 +236,7 @@
 | [0621-task-scheduler](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -506,6 +509,7 @@
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0856-score-of-parentheses) |
