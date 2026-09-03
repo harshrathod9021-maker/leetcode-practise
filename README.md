@@ -23,6 +23,7 @@
 | [0051-n-queens](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0402-remove-k-digits) |
@@ -233,6 +235,7 @@
 | [0032-longest-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
