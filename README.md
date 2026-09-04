@@ -139,6 +139,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -222,6 +223,7 @@
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1710-maximum-units-on-a-truck) |
@@ -672,6 +674,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 ## Memoization
 |  |
@@ -766,6 +769,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -792,6 +796,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 ## Treap
 |  |
@@ -834,6 +839,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
