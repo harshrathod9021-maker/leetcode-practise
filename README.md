@@ -521,6 +521,7 @@
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
@@ -576,6 +577,7 @@
 | [0225-implement-stack-using-queues](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
@@ -681,6 +683,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
@@ -782,6 +785,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
@@ -816,6 +820,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
@@ -867,6 +872,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
