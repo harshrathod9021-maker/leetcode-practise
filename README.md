@@ -616,6 +616,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0142-linked-list-cycle-ii) |
@@ -659,6 +660,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -751,6 +753,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -776,6 +779,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -826,6 +830,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
