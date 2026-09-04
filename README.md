@@ -290,6 +290,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -706,6 +707,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Memoization
 |  |
@@ -819,6 +821,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
@@ -864,6 +867,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Treap
 |  |
@@ -919,6 +923,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -946,6 +951,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Iterator
 |  |
