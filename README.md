@@ -261,6 +261,7 @@
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
@@ -657,6 +658,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -742,6 +744,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
@@ -760,6 +763,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
@@ -807,6 +811,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
