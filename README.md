@@ -798,6 +798,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -839,6 +840,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -927,6 +929,7 @@
 | [0098-validate-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0701-insert-into-a-binary-search-tree) |
