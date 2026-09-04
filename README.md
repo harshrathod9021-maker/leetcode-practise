@@ -187,6 +187,7 @@
 | [0162-find-peak-element](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
@@ -449,6 +450,7 @@
 | [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -742,6 +744,7 @@
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
@@ -759,6 +762,7 @@
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0572-subtree-of-another-tree) |
