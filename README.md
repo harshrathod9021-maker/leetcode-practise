@@ -105,6 +105,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -704,6 +706,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Memoization
 |  |
 | ------- |
@@ -816,6 +819,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -860,6 +864,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Treap
 |  |
 | ------- |
@@ -941,6 +946,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Iterator
 |  |
 | ------- |
