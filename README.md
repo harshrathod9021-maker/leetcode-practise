@@ -649,6 +649,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -724,6 +725,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
@@ -732,6 +734,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
@@ -767,4 +770,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
