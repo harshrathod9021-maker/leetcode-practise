@@ -532,6 +532,7 @@
 | [0130-surrounded-regions](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
 ## String
 |  |
@@ -735,6 +736,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -919,6 +921,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -966,6 +969,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1037,4 +1041,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
