@@ -88,6 +88,7 @@
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
@@ -220,6 +221,7 @@
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -429,6 +431,7 @@
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 ## Monotonic Queue
@@ -461,6 +464,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -548,6 +552,7 @@
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -762,6 +767,7 @@
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
@@ -1012,6 +1018,7 @@
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
@@ -1131,4 +1138,9 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
