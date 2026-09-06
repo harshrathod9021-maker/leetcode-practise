@@ -113,6 +113,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Hash Table
@@ -304,6 +305,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 ## Stack
 |  |
 | ------- |
@@ -928,6 +930,7 @@
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
+| [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
@@ -1034,10 +1037,12 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
+| [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
