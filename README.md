@@ -112,6 +112,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -227,6 +228,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Sorting
@@ -434,6 +436,7 @@
 | [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Math
@@ -556,6 +560,7 @@
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -778,6 +783,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Memoization
@@ -1028,6 +1034,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## DP on Trees
@@ -1139,6 +1146,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 ## Minimax
 |  |
 | ------- |
