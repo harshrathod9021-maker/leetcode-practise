@@ -426,6 +426,7 @@
 | [0621-task-scheduler](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 ## Monotonic Queue
@@ -758,6 +759,7 @@
 | [0684-redundant-connection](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
@@ -949,6 +951,7 @@
 | [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
@@ -1004,6 +1007,7 @@
 | [0684-redundant-connection](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
@@ -1113,4 +1117,12 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
