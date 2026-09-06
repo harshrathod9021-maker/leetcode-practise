@@ -118,6 +118,7 @@
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -462,6 +464,7 @@
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Math
 |  |
 | ------- |
