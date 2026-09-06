@@ -65,6 +65,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
 | [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
@@ -412,6 +413,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
@@ -480,6 +482,7 @@
 | [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
@@ -661,6 +664,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0901-online-stock-span) |
