@@ -111,6 +111,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Sorting
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
+| [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Math
 |  |
 | ------- |
@@ -945,6 +948,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## DP on Trees
 |  |
 | ------- |
