@@ -51,6 +51,7 @@
 | [0179-largest-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
@@ -439,6 +440,7 @@
 | [0054-spiral-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
 ## String
 |  |
@@ -709,6 +712,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -936,6 +940,7 @@
 | [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
