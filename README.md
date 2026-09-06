@@ -745,6 +745,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -925,6 +926,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -978,6 +980,7 @@
 | [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1033,14 +1036,17 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Coloring
 |  |
 | ------- |
