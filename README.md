@@ -121,6 +121,7 @@
 | [0076-minimum-window-substring](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
@@ -528,6 +529,7 @@
 | [0076-minimum-window-substring](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0179-largest-number) |
@@ -921,6 +923,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -975,4 +978,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0173-binary-search-tree-iterator) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
