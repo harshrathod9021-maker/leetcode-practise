@@ -743,6 +743,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
@@ -925,6 +926,7 @@
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2360-longest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
@@ -1055,4 +1057,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
