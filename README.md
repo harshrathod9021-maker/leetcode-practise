@@ -91,6 +91,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -439,6 +440,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
 | [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 ## Math
@@ -939,6 +941,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
