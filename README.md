@@ -63,6 +63,7 @@
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0321-create-maximum-number) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
@@ -238,6 +239,7 @@
 | [0229-majority-element-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
@@ -411,6 +413,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
@@ -559,6 +562,7 @@
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0316-remove-duplicate-letters) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0402-remove-k-digits) |
@@ -729,6 +733,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0538-convert-bst-to-greater-tree) |
@@ -928,6 +933,7 @@
 | [0133-clone-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
@@ -1079,4 +1085,16 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1192-critical-connections-in-a-network) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
