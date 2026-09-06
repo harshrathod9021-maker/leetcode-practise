@@ -294,6 +294,7 @@
 | [0062-unique-paths](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -573,6 +574,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
