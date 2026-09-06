@@ -538,6 +538,7 @@
 | [0200-number-of-islands](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0785-is-graph-bipartite) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
 ## String
 |  |
@@ -578,6 +579,7 @@
 | [0856-score-of-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1544-make-the-string-great) |
