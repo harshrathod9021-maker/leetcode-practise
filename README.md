@@ -93,6 +93,7 @@
 | [0735-asteroid-collision](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -319,6 +320,7 @@
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
