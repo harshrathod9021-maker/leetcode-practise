@@ -44,6 +44,7 @@
 | [0130-surrounded-regions](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
@@ -144,6 +145,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0142-linked-list-cycle-ii) |
@@ -308,6 +310,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0174-dungeon-game) |
@@ -599,6 +602,7 @@
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
@@ -814,6 +818,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -872,6 +877,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
@@ -1186,4 +1192,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
