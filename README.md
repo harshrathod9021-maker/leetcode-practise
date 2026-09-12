@@ -134,6 +134,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
@@ -222,6 +223,7 @@
 | [0844-backspace-string-compare](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -251,6 +253,7 @@
 | [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Sorting
 |  |
@@ -283,6 +286,7 @@
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1710-maximum-units-on-a-truck) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +361,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Stack
@@ -568,6 +573,7 @@
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -598,6 +604,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -898,6 +905,7 @@
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Algorithm X
 |  |
 | ------- |
@@ -1237,4 +1245,8 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
