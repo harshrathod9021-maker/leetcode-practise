@@ -130,6 +130,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
@@ -246,6 +247,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
 ## Sorting
 |  |
@@ -574,6 +576,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1220,4 +1223,5 @@
 | [0354-russian-doll-envelopes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
