@@ -86,6 +86,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
@@ -326,6 +327,7 @@
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
@@ -563,10 +565,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1205,4 +1209,5 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
