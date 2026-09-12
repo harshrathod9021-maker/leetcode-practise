@@ -74,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0480-sliding-window-median) |
@@ -330,6 +331,7 @@
 | [0213-house-robber-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
@@ -875,10 +877,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 ## Bitmask
 |  |
