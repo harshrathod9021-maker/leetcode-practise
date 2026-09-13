@@ -127,6 +127,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -368,6 +369,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -537,6 +539,7 @@
 | [0994-rotting-oranges](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2258-escape-the-spreading-fire) |
