@@ -374,6 +374,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -689,6 +690,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1544-make-the-string-great) |
@@ -1291,5 +1293,6 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
