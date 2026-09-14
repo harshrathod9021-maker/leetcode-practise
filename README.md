@@ -125,6 +125,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1019-next-greater-node-in-linked-list) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
@@ -379,6 +380,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
@@ -1306,4 +1308,12 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
