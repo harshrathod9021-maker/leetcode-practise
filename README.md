@@ -363,6 +363,7 @@
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -678,6 +679,7 @@
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
@@ -1288,5 +1290,6 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
