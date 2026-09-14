@@ -129,6 +129,7 @@
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
@@ -317,6 +318,7 @@
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -383,6 +385,7 @@
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -430,6 +433,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1544-make-the-string-great) |
@@ -452,6 +456,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -1316,4 +1321,8 @@
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
