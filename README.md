@@ -340,6 +340,7 @@
 | [0072-edit-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0120-triangle) |
@@ -923,6 +924,7 @@
 | [0078-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
@@ -981,6 +983,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0099-recover-binary-search-tree) |
@@ -1031,6 +1034,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0099-recover-binary-search-tree) |
@@ -1190,6 +1194,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0099-recover-binary-search-tree) |
