@@ -359,6 +359,7 @@
 | [0312-burst-balloons](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
@@ -582,6 +583,7 @@
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0445-add-two-numbers-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
@@ -1285,6 +1287,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 ## Bellman–Ford Algorithm
 |  |
@@ -1335,4 +1338,8 @@
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
