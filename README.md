@@ -356,6 +356,7 @@
 | [0474-ones-and-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0583-delete-operation-for-two-strings) |
@@ -675,6 +676,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0647-palindromic-substrings) |
