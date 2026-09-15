@@ -393,6 +393,7 @@
 | [0968-binary-tree-cameras](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1012-numbers-with-repeated-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1012-numbers-with-repeated-digits) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1092-shortest-common-supersequence) |
@@ -600,6 +601,7 @@
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1012-numbers-with-repeated-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1012-numbers-with-repeated-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
