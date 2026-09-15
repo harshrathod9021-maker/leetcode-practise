@@ -363,6 +363,7 @@
 | [0312-burst-balloons](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0416-partition-equal-subset-sum) |
@@ -590,6 +591,7 @@
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0445-add-two-numbers-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
@@ -940,6 +942,7 @@
 | [0140-word-break-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
