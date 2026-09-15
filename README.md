@@ -357,6 +357,7 @@
 | [0198-house-robber](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0312-burst-balloons) |
@@ -585,6 +586,7 @@
 | [0189-rotate-array](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0282-expression-add-operators) |
@@ -786,6 +788,7 @@
 | [0143-reorder-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
