@@ -407,6 +407,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2376-count-special-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2376-count-special-integers) |
 ## Stack
 |  |
 | ------- |
@@ -602,6 +603,7 @@
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1012-numbers-with-repeated-digits) |
+| [2376-count-special-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2376-count-special-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
