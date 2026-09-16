@@ -138,6 +138,7 @@
 | [1314-matrix-block-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1314-matrix-block-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -407,6 +408,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1987-number-of-unique-good-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -492,6 +494,7 @@
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -514,6 +517,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -535,12 +539,14 @@
 | [0778-swim-in-rising-water](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1094-car-pooling) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
 ## Counting
 |  |
 | ------- |
