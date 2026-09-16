@@ -347,6 +347,7 @@
 | [0091-decode-ways](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -693,6 +694,7 @@
 | [0076-minimum-window-substring](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0131-palindrome-partitioning) |
