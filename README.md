@@ -408,6 +408,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1987-number-of-unique-good-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2050-parallel-courses-iii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -739,6 +740,7 @@
 | [1143-longest-common-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1544-make-the-string-great) |
+| [1987-number-of-unique-good-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Manacher
 |  |
