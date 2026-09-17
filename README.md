@@ -107,6 +107,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0733-flood-fill) |
@@ -326,6 +327,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -396,6 +398,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
