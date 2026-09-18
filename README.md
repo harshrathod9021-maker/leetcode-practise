@@ -144,6 +144,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -424,6 +425,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1425-constrained-subsequence-sum) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1987-number-of-unique-good-subsequences](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1987-number-of-unique-good-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -632,6 +634,7 @@
 | [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1012-numbers-with-repeated-digits) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [2376-count-special-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2376-count-special-integers) |
 ## Divide and Conquer
 |  |
@@ -963,6 +966,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0062-unique-paths) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -990,6 +994,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1219-path-with-maximum-gold) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1399,4 +1404,5 @@
 | ------- |
 | [0808-soup-servings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 <!---LeetCode Topics End-->
