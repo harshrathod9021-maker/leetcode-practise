@@ -404,6 +404,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0808-soup-servings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0894-all-possible-full-binary-trees) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
@@ -505,6 +506,7 @@
 | [0567-permutation-in-string](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
@@ -627,6 +629,7 @@
 | [0509-fibonacci-number](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0808-soup-servings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/1012-numbers-with-repeated-digits) |
 | [2376-count-special-integers](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/2376-count-special-integers) |
@@ -1395,4 +1398,5 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/harshrathod9021-maker/leetcode-practise/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
